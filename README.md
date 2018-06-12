@@ -1,4 +1,4 @@
-# Reinforcement learning
+# Reinforcement Learning
 
 ## Intro
 The goal of this repo is to reproduce samples of reinforcement learning tasks to get started.
