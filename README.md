@@ -1,9 +1,11 @@
 # Reinforcement learning
 
 ## Intro
-The project hast two main goals.
-- recreate tutorials and implement reinforcement algos
-- create a simple agent for trading cryptos 
+The goal of this repo is to reproduce samples of reinforcement learning tasks to get started.
 
-Of course the latter is much more complex so maybe later we split up both into different repositories.
+
+## References
+https://medium.freecodecamp.org/an-introduction-to-reinforcement-learning-4339519de419
+https://gym.openai.com/
+http://incompleteideas.net/book/bookdraft2017nov5.pdf
 
